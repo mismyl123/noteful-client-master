@@ -4,6 +4,7 @@ Collaborators:
 Zeid Diez
 Michelle LaLonde
 Marcus Ridley
+Dariss Harris
 
 https://desolate-citadel-37974.herokuapp.com/notes
 
