@@ -2,16 +2,18 @@
 Live Demo Here:  https://noteful-client-master-self.vercel.app/
 
 ## Collaborators:
-Zeid Diez
-Michelle LaLonde
-Marcus Ridley
+Zeid Diez,
+Michelle LaLonde,
+Marcus Ridley,
 Dariss Harris
 
-https://desolate-citadel-37974.herokuapp.com/notes
+# Server Eeploy: https://desolate-citadel-37974.herokuapp.com/notes
 
-https://desolate-citadel-37974.herokuapp.com/folders
+# Server Deploy: https://desolate-citadel-37974.herokuapp.com/folders
 
-https://noteful-client-master-self.vercel.app/
+# Noteful Deploy:  https://noteful-client-master-self.vercel.app/
+
+# Server Repo: https://github.com/mismyl123/notefulAPI2
 
 --------------------------------------------------------------------------------------
 
