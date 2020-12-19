@@ -7,13 +7,16 @@ Michelle LaLonde,
 Marcus Ridley,
 Dariss Harris
 
-# Server Eeploy: https://desolate-citadel-37974.herokuapp.com/notes
+## Server Deploy: https://desolate-citadel-37974.herokuapp.com/notes
 
-# Server Deploy: https://desolate-citadel-37974.herokuapp.com/folders
+## Server Deploy: https://desolate-citadel-37974.herokuapp.com/folders
 
-# Noteful Deploy:  https://noteful-client-master-self.vercel.app/
+## Noteful Deploy:  https://noteful-client-master-self.vercel.app/
 
-# Server Repo: https://github.com/mismyl123/notefulAPI2
+## Server Repo: https://github.com/mismyl123/notefulAPI2
+
+## Client Repo:  https://github.com/mismyl123/noteful-client-master
+
 
 --------------------------------------------------------------------------------------
 
